@@ -9,6 +9,6 @@ It has some nice features you might like :
 - very minimal system with direct html editing
 - clean black and white design
 - print friendly css (see the `<style>` tag)
-- multilingual (see the `<scritp>` tag)
+- multilingual : see the `<scritp>` tag for configuration, duplicated element and add an attribute like [fr](https://lecaro.me/cv/?fr) or [en](https://lecaro.me/cv/?en)
 
 ![showcase of the final printed document](./showcase.jpg)
